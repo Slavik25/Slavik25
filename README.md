@@ -25,17 +25,13 @@ Focused on Backend, APIs, Automation & Multiplayer Development
 <a href="https://github.com/Slavik25">
 <img src="https://img.shields.io/badge/GitHub-Slavik25-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/b.brayan.9/">
 <img src="https://img.shields.io/badge/Instagram-@b.brayan.9-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <br><br>
-
 <a href="https://lafronterarp.es">
 <img src="https://img.shields.io/badge/🌐%20Website-lafronterarp.es-0EA5E9?style=for-the-badge"/>
 </a>
-
 <a href="https://discord.lafronterarp.es">
 <img src="https://img.shields.io/badge/💬%20Discord-discord.lafronterarp.es-5865F2?style=for-the-badge"/>
 </a>
