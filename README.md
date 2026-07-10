@@ -1,17 +1,15 @@
 <div align="center">
 <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOF9sb2ZpX2NvZmZlZV9zaG9wX2JhY2tncm91bmRfX2luX3RoZV9zdHlsZV9vZl9hbl83ODhhOGQ2MC0xMGYwLTRlZmItODA3NC0xNzlhYTJiYTk0MWRfMS5qcGc.jpg" width="25%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A760F7&center=true&vCenter=true&width=520&lines=Hello%2C+I'm+Brayan;Backend+Developer;FiveM+Developer;Discord+Bot+Developer;Systems+Engineering+Student;Multimedia+Student" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A760F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Itzsly;Fullstack+Developer;Systems+Engineering+Student;CEO+of+One+Pixel+Studios" width="70%" />
 
 <br><br>
 
 <pre>
-Backend Developer
-FiveM Developer
-Discord Bot Developer
+CEO at La Frontera RP and NiktBot
 Systems Engineering Student
-Multimedia Student
-Focused on Backend, APIs, Automation & Multiplayer Development
+Full-Stack Developer
+Focused on systems, UI/UX and multiplayer development
 </pre>
 
 <br>
@@ -19,21 +17,21 @@ Focused on Backend, APIs, Automation & Multiplayer Development
 <br><br>
 
 <!-- Personal Networks -->
-
-<div align="center">
-
-<a href="https://github.com/Slavik25">
-<img src="https://img.shields.io/badge/GitHub-Slavik25-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="https://www.instagram.com/b.brayan.9/">
-<img src="https://img.shields.io/badge/Instagram-@b.brayan.9-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-b.brayan.9-E4405F?style=for-the-badge&logo=instagram" />
 </a>
-<br><br>
-<a href="https://lafronterarp.es">
-<img src="https://img.shields.io/badge/🌐%20Website-lafronterarp.es-0EA5E9?style=for-the-badge"/>
+
+<a href="https://discord.com/users/">
+<img src="https://img.shields.io/badge/Discord-oq9x-5865F2?style=for-the-badge&logo=discord" />
 </a>
-<a href="https://discord.lafronterarp.es">
-<img src="https://img.shields.io/badge/💬%20Discord-discord.lafronterarp.es-5865F2?style=for-the-badge"/>
+
+<!-- OPS Networks -->
+<a href="https://www.instagram.com/lafronterarpmx/">
+<img src="https://img.shields.io/badge/Instagram-One%20Pixel%20Studios-0095F6?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://x.com/lafronterarpmx">
+<img src="https://img.shields.io/badge/X-%40lafronterarpmx-000000?style=for-the-badge&logo=x" />
 </a>
 
 </div>
@@ -42,147 +40,56 @@ Focused on Backend, APIs, Automation & Multiplayer Development
 
 ## 👤 About Me
 
-I'm **Brayan**, a **19-year-old** developer from **Argentina**, currently studying **Systems Engineering** and **Multimedia**.
+I'm **Slavik**, a developer focused on systems, scripting and multiplayer tools.  
+Coding since **2017–2018**, passionate about performance, UI/UX and building optimized experiences.
 
-I specialize in backend development, web platforms, Discord bots, APIs, databases and multiplayer systems for **FiveM**.
+## 🧩 From One Pixel Studios to La Frontera RP
 
-I'm passionate about building scalable applications, automation tools and modern experiences for online gaming communities.
+**One Pixel Studios** — **Founded:** 12/20/2019 • **Permanently Closed:** 02/2026
 
----
+Created by **Brayan**, One Pixel Studios was built with a clear vision:
 
-## 🚀 Current Projects
+> **"A single pixel can change everything."**
+
+After the studio officially closed in **February 2026**, its experience and knowledge became the foundation for a new generation of independent projects.
+
+Today, that journey continues through:
 
 ### 🚓 La Frontera RP
 
-**La Frontera RP** is my main project, a FiveM Roleplay community where I develop the complete technological ecosystem.
-
-Current development includes:
-
-✔ Official Website
-
-✔ Support Platform
-
-✔ Staff Administration Panel
-
-✔ Authentication System
-
-✔ Custom FiveM Resources
-
-✔ REST APIs
-
-✔ SQL Database Design
-
-✔ Discord Integration
-
-✔ Community Management Tools
-
----
+✔ Complete FiveM Ecosystem  
+✔ Official Website & Support Center  
+✔ Administration Dashboard  
+✔ Discord Integration  
+✔ Custom Resources & Backend Systems
 
 ### 🤖 NiktoBot
 
-**NiktoBot** is an advanced Discord bot designed to simplify server management through automation.
-
-Main features:
-
-✔ Ticket System
-
-✔ Moderation
-
-✔ Slash Commands
-
-✔ Webhooks
-
-✔ Logging System
-
-✔ Dashboard Integration
-
-✔ Server Statistics
-
+✔ Discord Automation  
+✔ Ticket Management  
+✔ Moderation System  
+✔ Logging & Statistics  
 ✔ FiveM Connectivity
-
-✔ Automation Tools
-
----
 
 ## 🛠️ Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,php,lua,mysql,cpp,cs,js,html,css,nodejs,git,github,vscode,linux,windows" />
+<img src="https://skillicons.dev/icons?i=python,lua,js,html,css,cs,nodejs,react,mongodb,git" />
 </div>
-
-### Programming Languages
-
-- Python
-- PHP
-- Lua
-- MySQL
-- C++
-- C#
-- JavaScript
-- HTML5
-- CSS3
-
-### Main Technologies
-
-- REST APIs
-- Backend Development
-- Discord Bots
-- OAuth2
-- SQL Optimization
-- MVC Architecture
-- FiveM Development
-- ESX
-- QBCore
-- Responsive Design
-- Git & GitHub
 
 ---
 
 ## 🚀 Featured Work
 
-### 🚓 La Frontera RP
-
-A complete FiveM ecosystem including:
-
-- Official Website
-- Dashboard
-- Support Center
-- Administration Panel
-- Discord Integration
-- Custom Scripts
-- APIs
-- Backend Services
-
-### 🤖 NiktoBot
-
-A modern Discord bot focused on:
-
-- Community Management
-- Ticket Automation
-- Moderation
-- Server Administration
-- Statistics
-- Logging
-
-### 💻 Personal Projects
-
-I also develop:
-
-- Backend Systems
-- Custom APIs
-- Automation Tools
-- Web Applications
-- SQL Solutions
-- Multiplayer Resources
+- **One Pixel Studios** — advanced systems & tool development  
+- **Ascend Roleplay** — flagship project after the studio's return  
+- **Private tools and automation systems**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-**GitHub:** https://github.com/Slavik25
-
-*"Code. Learn. Build. Repeat."*
+### ⭐ Thanks for reading!  
+Reach me anytime on **Discord: oscuroencanto**
 
 </div>
